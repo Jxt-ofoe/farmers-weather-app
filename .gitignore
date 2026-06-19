@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+
+# Local env files
+.env
+.env.local
+
+# Databases
+local.db
+local.db-journal
+
+# Editor/system configs
+.config/
+.DS_Store
+Thumbs.db
